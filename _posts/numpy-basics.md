@@ -4,7 +4,7 @@ date: 2026-11-01
 categories: [Python, NumPy]
 ---
 
-##list와 NumPy 배열의 차이
+## list와 NumPy 배열의 차이
 
 파이썬 list - 여러가지 타입 저장 가능 
 ndarray - 동일한 타입만 가능 
